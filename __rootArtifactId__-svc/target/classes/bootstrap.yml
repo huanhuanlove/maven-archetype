@@ -1,0 +1,8 @@
+# server配置
+server:
+  port: 8090
+
+# spring配置
+spring:
+  application:
+    name: archetype-svc
